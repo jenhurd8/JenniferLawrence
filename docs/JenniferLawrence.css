@@ -45,4 +45,6 @@ a:link {
 a:visited {
     color: black;
 }
-
+div.end{
+  text-align: center;
+}
